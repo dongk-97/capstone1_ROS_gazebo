@@ -1,0 +1,9 @@
+
+devel/*
+build/*
+
+*~
+*.pyc
+*.pth
+
+.vscode/settings.json
