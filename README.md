@@ -61,3 +61,6 @@ roslaunch data_integrate ball_harvesting_run.launch
 * IMU topic is `/imu_test`
 
 * To change ball postions in the map, modify `src/map_generate/worlds/map_final_ball.world`
+
+## Demo video(The first prize)
+
