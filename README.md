@@ -63,4 +63,4 @@ roslaunch data_integrate ball_harvesting_run.launch
 * To change ball postions in the map, modify `src/map_generate/worlds/map_final_ball.world`
 
 ## Demo video(The first prize)
-
+<img width="100%" src="https://user-images.githubusercontent.com/52373758/112870988-c584c000-90f9-11eb-806c-d03ebc8188e3.gif"/>
