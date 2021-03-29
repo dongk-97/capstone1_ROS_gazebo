@@ -2,7 +2,7 @@
 
 
 ## Demo video(The first prize)
-<img width="100%" src="https://user-images.githubusercontent.com/52373758/112870988-c584c000-90f9-11eb-806c-d03ebc8188e3.gif"/>
+<img width="80%" src="https://user-images.githubusercontent.com/52373758/112870988-c584c000-90f9-11eb-806c-d03ebc8188e3.gif"/>
 
 ## 0. Requirements
 * Required Ubuntu 18.04 Bionic on amd64 architecture system
